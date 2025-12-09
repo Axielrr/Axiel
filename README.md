@@ -10,7 +10,7 @@
 - 🐍 Automatização de processos em Python (tratamento de dados, geração de relatórios, validações).
 - 🗃️ Consultas e manipulação de dados em SQL Server.
 - 🎨 Design de interfaces de dashboards com Figma.
-- 📚 Estudo contínuo em Machine Learning e Data Science.
+- 📚 Estudo contínuo em Data Analytcs.
 
 ---
 ## ⚒️ Principais Ferramentas
