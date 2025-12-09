@@ -44,5 +44,5 @@ Feedback contínuo da diretoria ajudou a tornar o dashboard mais amigável e rel
 Storytelling e DAX avançado.
 
 **Skills utilizadas:**
-Power BI
+Power BI,
 Business
