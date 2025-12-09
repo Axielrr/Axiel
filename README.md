@@ -42,6 +42,7 @@ A criação de painéis comparativos (realizado vs. meta) trouxe clareza imediat
 O uso de análises verticais e horizontais aumentou o poder de interpretação dos resultados.
 Feedback contínuo da diretoria ajudou a tornar o dashboard mais amigável e relevante para decisões estratégicas.
 Storytelling e DAX avançado.
-Skills utilizadas:
+
+**Skills utilizadas:**
 Power BI
 Business
