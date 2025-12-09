@@ -73,3 +73,6 @@ Storytelling e DAX avançado.
 **Skills utilizadas:**
 Power BI,
 Business
+
+## 📫 Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/axiel-rodrigues-rosa-analista-de-dados70241a242?utm_source=share_via&utm_content=profile&utm_medium=member_android)
