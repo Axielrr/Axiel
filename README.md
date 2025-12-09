@@ -1,4 +1,18 @@
-# Axiel
+# # 👋 Hello world, eu sou o Axiel Rodrigues Rosa!
+
+🎯 Sou Analista de Dados com experiência em Business Intelligence, automação de processos e modelagem de dados. Atuo com Power BI, SQL e Python, desenvolvendo dashboards interativos e automatizando processos para otimizar tempo e auxiliar na tomada de decisão.
+
+---
+
+## 💼 O que eu faço hoje:
+- 📊 Desenvolvimento de dashboards em Power BI, do zero à publicação.
+- 🧠 Criação de modelos semânticos otimizados com DAX.
+- 🐍 Automatização de processos em Python (tratamento de dados, geração de relatórios, validações).
+- 🗃️ Consultas e manipulação de dados em SQL Server.
+- 🎨 Design de interfaces de dashboards com Figma.
+- 📚 Estudo contínuo em Machine Learning e Data Science.
+
+---
 **Dashboard de Controladoria**
 
 Público-alvo — Diretoria
