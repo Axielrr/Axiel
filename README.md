@@ -1,5 +1,5 @@
 # Axiel
-Dashboard de Controladoria
+**Dashboard de Controladoria**
 
 Público-alvo — Diretoria
 Ponto focal — Sofia
