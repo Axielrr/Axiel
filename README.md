@@ -26,6 +26,21 @@
 ### 📂 Alguns dos meus projetos Power BI
 https://sites.google.com/view/axielrosa/p%C3%A1gina-inicial
 
+### Prjoto de Analise d Vendas com SQL
+
+sql-sales-analysis
+│
+├── dataset
+│   └── sales.csv
+│
+├── queries
+│   └── analysis.sql
+│
+├── dashboard
+│   └── powerbi_dashboard.png
+│
+└── README.md
+
 
 ## 📫 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/axiel-rodrigues-rosa-analista-de-dados70241a242?utm_source=share_via&utm_content=profile&utm_medium=member_android)
