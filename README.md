@@ -24,7 +24,7 @@
 
 
 ### 📂 Alguns dos meus projetos Power BI
-https://sites.google.com/view/axielrosa/p%C3%A1gina-inicial
+https://app.xperiun.com/in/httpsappxperiuncom
 
 ### Prjoto de Analise d Vendas com SQL
 
